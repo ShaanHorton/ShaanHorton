@@ -2,8 +2,7 @@
 
 <h2>🖥️ IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/ShaanHorton/LABURL)
+  - [Active Directory Home Lab](https://github.com/ShaanHorton/ActiveDirectoryHomeLab/tree/main)
 
 <h2>📜 Certifications</h2>
 
